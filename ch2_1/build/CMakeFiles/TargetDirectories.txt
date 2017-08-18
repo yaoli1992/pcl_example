@@ -1,0 +1,6 @@
+/home/salm/myopencv/yl_pcl/ch2_1/build/CMakeFiles/write_pcd.dir
+/home/salm/myopencv/yl_pcl/ch2_1/build/CMakeFiles/openni_save_image.dir
+/home/salm/myopencv/yl_pcl/ch2_1/build/CMakeFiles/concatenate_clouds.dir
+/home/salm/myopencv/yl_pcl/ch2_1/build/CMakeFiles/read_pcd.dir
+/home/salm/myopencv/yl_pcl/ch2_1/build/CMakeFiles/openni_pcd_recorder.dir
+/home/salm/myopencv/yl_pcl/ch2_1/build/CMakeFiles/openni_image.dir
