@@ -1,0 +1,2 @@
+/home/salm/myopencv/yl_pcl/ch13_1/build/CMakeFiles/normal_distributions_transform.dir
+/home/salm/myopencv/yl_pcl/ch13_1/build/CMakeFiles/template_alignment.dir

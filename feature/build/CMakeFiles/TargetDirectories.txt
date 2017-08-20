@@ -1,0 +1,9 @@
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/narf_feature_extraction.dir
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/sift.dir
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/normal_3d.dir
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/rangeimage.dir
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/pfh.dir
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/pclhistogramvisualizer.dir
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/fpfh.dir
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/extracting.dir
+/home/salm/myopencv/yl_pcl/feature/build/CMakeFiles/narfkeypoint.dir
