@@ -1,0 +1,4 @@
+/home/salm/myopencv/yl_pcl/ch12_1/build/CMakeFiles/greedy_projection.dir
+/home/salm/myopencv/yl_pcl/ch12_1/build/CMakeFiles/resampling.dir
+/home/salm/myopencv/yl_pcl/ch12_1/build/CMakeFiles/concave_hull_2d.dir
+/home/salm/myopencv/yl_pcl/ch12_1/build/CMakeFiles/passion.dir

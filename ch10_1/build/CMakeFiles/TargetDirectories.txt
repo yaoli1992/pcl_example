@@ -1,0 +1,2 @@
+/home/salm/myopencv/yl_pcl/ch10_1/build/src/CMakeFiles/pairwise_incremental_registration.dir
+/home/salm/myopencv/yl_pcl/ch10_1/build/src/CMakeFiles/iterative_closest_point.dir
