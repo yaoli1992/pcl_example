@@ -1,0 +1,4 @@
+/home/salm/myopencv/yl_pcl/ch3_2/build/CMakeFiles/kinect_test.dir
+/home/salm/myopencv/yl_pcl/ch3_2/build/CMakeFiles/openni_viewer.dir
+/home/salm/myopencv/yl_pcl/ch3_2/build/CMakeFiles/openni_viewer_simple.dir
+/home/salm/myopencv/yl_pcl/ch3_2/build/CMakeFiles/point_cloud_compression.dir
