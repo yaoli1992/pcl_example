@@ -1,0 +1,3 @@
+/home/salm/myopencv/yl_pcl/ch4_2/build/CMakeFiles/nans.dir
+/home/salm/myopencv/yl_pcl/ch4_2/build/CMakeFiles/range_image_visualization.dir
+/home/salm/myopencv/yl_pcl/ch4_2/build/CMakeFiles/using_indices.dir
