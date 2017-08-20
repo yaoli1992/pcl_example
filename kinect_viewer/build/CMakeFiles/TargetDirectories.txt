@@ -1,0 +1,8 @@
+/home/salm/myopencv/yl_pcl/kinect_viewer/build/src/CMakeFiles/openni_grabber_example.dir
+/home/salm/myopencv/yl_pcl/kinect_viewer/build/src/CMakeFiles/openni_grabber_depth_example.dir
+/home/salm/myopencv/yl_pcl/kinect_viewer/build/src/CMakeFiles/image_grabber_viewer.dir
+/home/salm/myopencv/yl_pcl/kinect_viewer/build/src/CMakeFiles/kinect_viewer.dir
+/home/salm/myopencv/yl_pcl/kinect_viewer/build/src/CMakeFiles/openni_viewer.dir
+/home/salm/myopencv/yl_pcl/kinect_viewer/build/src/CMakeFiles/kdtree_search.dir
+/home/salm/myopencv/yl_pcl/kinect_viewer/build/src/CMakeFiles/openni_viewer_simple.dir
+/home/salm/myopencv/yl_pcl/kinect_viewer/build/src/CMakeFiles/image_grabber_saver.dir

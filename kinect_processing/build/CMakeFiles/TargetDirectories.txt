@@ -1,0 +1,15 @@
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/openni.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/concavehull.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/ransac.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/convexhull.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/triangulation.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/matrix.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/passthrough.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/normals.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/unsampling.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/plane_model.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/integral_image.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/openni_viewer.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/add.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/viewer.dir
+/home/salm/myopencv/yl_pcl/kinect_processing/build/CMakeFiles/icp.dir

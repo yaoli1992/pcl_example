@@ -1,0 +1,4 @@
+/home/salm/myopencv/yl_pcl/Segmentation/build/CMakeFiles/VFH.dir
+/home/salm/myopencv/yl_pcl/Segmentation/build/CMakeFiles/cloud_viewer.dir
+/home/salm/myopencv/yl_pcl/Segmentation/build/CMakeFiles/euclidean.dir
+/home/salm/myopencv/yl_pcl/Segmentation/build/CMakeFiles/conditional_euclidean.dir
