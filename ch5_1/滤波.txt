@@ -1,0 +1,85 @@
+滤波
+
+
+
+在获取点云数据时 ，由于设备精度，操作者经验环境因素带来的影响，以及电磁波的衍射特性，被测物体表面性质变化和数据拼接配准操作过程的影响，点云数据中讲不可避免的出现一些噪声。在点云处理流程中滤波处理作为预处理的第一步，对后续的影响比较大，只有在滤波预处理中将噪声点 ，离群点，孔洞，数据压缩等按照后续处理定制，才能够更好的进行配准，特征提取，曲面重建，可视化等后续应用处理，PCL中点云滤波模块提供了很多灵活实用的滤波处理算法，例如：双边滤波，高斯滤波，条件滤波，直通滤波，基于随机采样一致性滤波，
+PCL中点云滤波的方案
+PCL中总结了几种需要进行点云滤波处理情况，这几种情况分别如下：
+ （1）  点云数据密度不规则需要平滑
+ （2） 因为遮挡等问题造成离群点需要去除
+ （3） 大量数据需要下采样
+ （4） 噪声数据需要去除
+对应的方案如下：
+ （1）按照给定的规则限制过滤去除点
+ （2） 通过常用滤波算法修改点的部分属性
+ （3）对数据进行下采样
+双边滤波算法是通过取临近采样点和加权平均来修正当前采样点的位置，从而达到滤波效果，同时也会有选择剔除与当前采样点“差异”太大的相邻采样点，从而保持原特征的目的
+
+
+关于pcl::PCLPointCloud2::Ptr和pcl::PointCloud<pcl::PointXYZ>两中数据结构的区别
+
+pcl::PointXYZ::PointXYZ ( float_x,
+		          float_y,
+		          float_z 
+	                ) 
+区别：	
+ struct PCLPointCloud2
+ {
+  PCLPointCloud2 () : header (), height (0), width (0), fields (),
+ is_bigendian (false), point_step (0), row_step (0),
+  data (), is_dense (false)
+  {
+ #if defined(BOOST_BIG_ENDIAN)
+  is_bigendian = true;
+ #elif defined(BOOST_LITTLE_ENDIAN)
+  is_bigendian = false;
+ #else
+ #error "unable to determine system endianness"
+ #endif
+  }
+ 
+  ::pcl::PCLHeader header;
+ 
+  pcl::uint32_t height;
+  pcl::uint32_t width;
+ 
+  std::vector< ::pcl::PCLPointField> fields;
+ 
+  pcl::uint8_t is_bigendian;
+  pcl::uint32_t point_step;
+  pcl::uint32_t row_step;
+ 
+  std::vector<pcl::uint8_t> data;
+ 
+  pcl::uint8_t is_dense;
+ 
+  public:
+  typedef boost::shared_ptr< ::pcl::PCLPointCloud2> Ptr;
+  typedef boost::shared_ptr< ::pcl::PCLPointCloud2 const> ConstPtr;
+  }; // struct PCLPointCloud2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

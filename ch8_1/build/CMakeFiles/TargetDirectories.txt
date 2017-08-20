@@ -1,0 +1,2 @@
+/home/salm/myopencv/yl_pcl/ch8_1/build/CMakeFiles/project_point.dir
+/home/salm/myopencv/yl_pcl/ch8_1/build/CMakeFiles/random_sample_consensus.dir

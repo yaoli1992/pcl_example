@@ -1,0 +1,3 @@
+/home/salm/myopencv/yl_pcl/ch4_3/build/CMakeFiles/passthrough.dir
+/home/salm/myopencv/yl_pcl/ch4_3/build/CMakeFiles/histogram.dir
+/home/salm/myopencv/yl_pcl/ch4_3/build/CMakeFiles/pcl_visualizer_demo.dir

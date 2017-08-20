@@ -1,0 +1,2 @@
+/home/salm/myopencv/yl_pcl/ch6_1/build/CMakeFiles/range_image_border_extraction.dir
+/home/salm/myopencv/yl_pcl/ch6_1/build/CMakeFiles/range_image_creation.dir

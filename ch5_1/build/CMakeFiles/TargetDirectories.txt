@@ -1,0 +1,7 @@
+/home/salm/myopencv/yl_pcl/ch5_1/build/CMakeFiles/project_inliers.dir
+/home/salm/myopencv/yl_pcl/ch5_1/build/CMakeFiles/extract_indices.dir
+/home/salm/myopencv/yl_pcl/ch5_1/build/CMakeFiles/passthrough.dir
+/home/salm/myopencv/yl_pcl/ch5_1/build/CMakeFiles/yl_voxel_grid.dir
+/home/salm/myopencv/yl_pcl/ch5_1/build/CMakeFiles/voxel_grid.dir
+/home/salm/myopencv/yl_pcl/ch5_1/build/CMakeFiles/remove_outliers.dir
+/home/salm/myopencv/yl_pcl/ch5_1/build/CMakeFiles/statistical_removal.dir
